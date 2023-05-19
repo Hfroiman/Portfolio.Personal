@@ -1,0 +1,87 @@
+body{
+    background: url(fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+section{
+    width: auto;
+    margin-top: 100px;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+footer{
+    margin-top: 50px;
+    height: 50px;
+    background-color:rgb(68, 60, 60);
+}
+.Encabezado{
+    height: 100px;
+}
+.btnencabezado{
+    background-color: cornflowerblue;
+    font-size: 22px;
+    border-radius: 8px;
+}
+.Centrar1{
+    height: 350px;
+    margin: 160px;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+.Centrar2{
+    height: 70%;
+    margin: 60px;
+    margin-top: 110px;
+    margin-left: 20px;
+    font-family: Vernom Adams;
+    size: 2,45;
+}
+.Centrartxt{
+    height: 100px;
+    margin-top: 350px;
+    margin-left: 40%;
+    margin-right: 2%;
+}
+.centrarlogo{
+    height: 550px;
+    margin-top: 25px;
+    margin-left: 150px;
+}  
+.Centrartxt2{
+    height: 400%;
+    margin-left: 45%;
+    margin-bottom: 150px;
+    color: rgb(10, 11, 12);
+    background-color: cornflowerblue;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.cajamail{
+    background-color: rgb(145, 195, 238);
+    margin-left: 40%;
+    width: 178px;
+    border-radius: 8px;
+}
+.colortxt{
+    color: cornflowerblue;
+    font-family:fantasy;
+    font-size:large;
+}
+.colortxt{
+    color: cornflowerblue;
+    font-family:fantasy;
+    font-size:large;
+} 
+.label{
+    margin-left: 10%;
+    color: cornflowerblue;
+    font-family:fantasy;
+}
+.label2{
+    margin-left: 21%;
+    color: cornflowerblue;
+    font-family:fantasy;
+    font-size:large;
+}
